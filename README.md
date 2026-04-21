@@ -35,8 +35,8 @@ python iphone_media_converter.py
 3. Either:
    - Copy `ffmpeg.exe` next to `iphone_media_converter.py`, **or**
    - Add the FFmpeg `bin` folder to your system PATH
-Download the essensial_build one: https://github.com/GyanD/codexffmpeg/releases/tag/2026-04-19-git-de18feb0f0
-Place the ffmpeg.exe in the same folder as the python script
+- Download the essensial_build: https://github.com/GyanD/codexffmpeg/releases/tag/2026-04-19-git-de18feb0f0
+- Place the ffmpeg.exe in the same folder as the python script
 ## Features
 
 - **Batch processing** — drag in hundreds of files at once
